@@ -1,0 +1,22 @@
+{
+  "name": "p5js-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "lint": "eslint ./**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finleyaa/p5js-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finleyaa/p5js-experiments/issues"
+  },
+  "homepage": "https://github.com/finleyaa/p5js-experiments#readme",
+  "devDependencies": {
+    "@fal-works/eslint-config-p5js": "^1.0.3",
+    "eslint": "^8.40.0"
+  }
+}
